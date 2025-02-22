@@ -1,6 +1,6 @@
 # React + Vite
 
-Live at: (https://resham01005.github.io/Spotify-Clone/)
+Live at: https://resham01005.github.io/Spotify-Clone/
 
 Currently, two official plugins are available:
 
