@@ -36,7 +36,7 @@ const Player = () => {
                 <p>{time.totalTime.minute}:{time.totalTime.second}</p>
             </div>
         </div>
-        <div className='hiddden lg:flex items-center gap-2 opacity-75'>
+        <div className='hidden lg:flex items-center gap-2 opacity-75'>
             <img className='w-4' src={assets.plays_icon} alt="" />
             <img className='w-4' src={assets.mic_icon} alt="" />
             <img className='w-4' src={assets.queue_icon} alt="" />
